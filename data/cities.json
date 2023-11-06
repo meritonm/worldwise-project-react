@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Almodovar del Pinar",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-04T13:07:05.434Z",
+      "notes": "",
+      "position": {
+        "lat": "39.707186656826565",
+        "lng": "-1.9555664062500002"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Gjilan",
+      "country": "Republic of Kosovo",
+      "emoji": "🇽🇰",
+      "date": "2023-11-04T13:07:24.404Z",
+      "notes": "",
+      "position": {
+        "lat": "42.52069952914966",
+        "lng": "21.335449218750004"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Bardenas Reales",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-06T14:54:29.231Z",
+      "notes": "sada",
+      "position": {
+        "lat": "42.0672799297211",
+        "lng": "-1.3381982257430125"
+      },
+      "id": 98443202
+    }
+  ]
+}
